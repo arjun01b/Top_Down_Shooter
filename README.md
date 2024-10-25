@@ -1,7 +1,4 @@
-# CMP105_CW
-
-
-Game Title: Mechs VS Tanks
+# Game Title: Mechs VS Tanks
 
 
 Important game controls: 

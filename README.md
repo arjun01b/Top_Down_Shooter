@@ -1,9 +1,8 @@
 # CMP105_CW
-CMP105 Coursework Game
+
 
 Game Title: Mechs VS Tanks
 
-Student Number : 1904516
 
 Important game controls: 
 
